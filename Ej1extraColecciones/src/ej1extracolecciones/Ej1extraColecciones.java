@@ -17,6 +17,10 @@ public class Ej1extraColecciones {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
+        int num = 3;
+        
+        
         /*Diseñar un programa que lea una serie de valores numéricos enteros desde el teclado y
 los guarde en un ArrayList de tipo Integer. La lectura de números termina cuando se
 introduzca el valor -99. Este valor no se guarda en el ArrayList. A continuación, el
